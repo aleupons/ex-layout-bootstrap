@@ -19,9 +19,3 @@
   background-color: var(--fons-aside);
   color: var(--text-main);
 }
-/*Reset*/
-ul, li {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
